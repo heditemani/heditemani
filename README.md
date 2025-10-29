@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @heditemani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there! I'm Hedi Temani
 
-<!---
-heditemani/heditemani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### A 25-year-old **Web Developer** passionate about building clean, functional digital experiences.
+
+---
+
+## 📚 Education & Status
+
+* **Final Year Student** at **IMSET Nabeul** (University).
+* Currently completing my studies and focusing on transitioning into a professional development role.
+
+---
+
+## 🛠️ Core Skills
+
+I primarily work with fundamental web technologies and databases:
+
+* **Languages:** HTML, CSS, JavaScript (JS)
+* **Database:** MySQL
+
+*(You can expand this list by adding frameworks, libraries, or tools as you learn them, like React, Node.js, or Git!)*
+
+---
+
+## 🌱 What's Next
+
+* **Focusing On:** Deepening my knowledge of JavaScript frameworks (e.g., React or Vue.js) to build more complex and dynamic applications.
+* **Goal:** Successfully completing my final year project and launching my professional career.
+
+---
+
+## 📬 Get In Touch
+
+I'm always open to discussing new opportunities, projects, or collaborations!
+
+* **Email:** hedi.temani97@gmail.com
